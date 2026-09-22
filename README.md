@@ -44,11 +44,12 @@ This project provides an **automatic distance-based warning system** that detect
 15. When the distance is between **31–50 cm**, the Yellow LED and buzzer provide a warning.  
 16. When the distance is **30 cm or less**, the Red LED and buzzer are activated and the SG90 servo rotates to **90°** to activate the safety barrier.
 
-![](IMG-20260922-WA0000.jpg)
+![](IMG-20260921-WA0010.jpg
+)
 
 ### **RESULT**
-
-![][image2]
+IMG-20260921-WA0010.jpg
+![](IMG-20260922-WA0000.jpg)
 
 The **Smart Hazard Zone Safety and Cleaning Alert System** successfully detects a person approaching a restricted area based on distance. It provides different levels of warning using LEDs and a buzzer, and the SG90 servo automatically rotates to **90°** when the person enters the danger range.
 
